@@ -1,6 +1,6 @@
 # Mining the Insights of SODS
 
-CU Boulder Computer Science Data Mining Coure Project
+CU Boulder Computer Science - Fall 2022 - Data Mining Coure Project
 
 Download the dataset: https://insights.stackoverflow.com/survey
 
